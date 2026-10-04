@@ -1,0 +1,23 @@
+# RStudio session and temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp*
+.Ruserdata
+
+# Data and generated outputs
+01_raw_data/
+02_processed_data/
+04_results/
+05_figures/
+06_tables/
+07_manuscript/
+
+# Local credentials
+.env
+.env.*
+.Renviron
+
+# Windows files
+Thumbs.db
+Desktop.ini
