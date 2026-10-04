@@ -1,0 +1,4 @@
+"timepoint","thresholds_total","thresholds_both_models_finite","thresholds_mpcds_better_than_clinical","proportion_mpcds_better_than_clinical","min_threshold_mpcds_better_than_clinical","max_threshold_mpcds_better_than_clinical","thresholds_incremental_clinical_utility","proportion_incremental_clinical_utility","min_threshold_incremental_clinical_utility","max_threshold_incremental_clinical_utility","maximum_delta_NB_vs_clinical","threshold_at_maximum_delta"
+"1 year",66,61,42,0.688524590163934,0.05,0.49,42,0.688524590163934,0.05,0.49,0.0174756371448101,0.23
+"3 years",66,65,61,0.938461538461538,0.05,0.7,61,0.938461538461538,0.05,0.7,0.0890924059851494,0.64
+"5 years",66,66,30,0.454545454545455,0.16,0.7,29,0.439393939393939,0.16,0.7,0.0747239811458552,0.52

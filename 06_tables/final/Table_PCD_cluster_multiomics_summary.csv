@@ -1,0 +1,8 @@
+"domain","LUAD","LUSC","cross_cohort_interpretation"
+"Cluster composition","PCD_C1 n=284; PCD_C2 n=233","PCD_C1 n=286; PCD_C2 n=215","Two expression-derived PCD clusters characterized separately by histology"
+"Immune/stromal","PCD_C1 higher across all 7 robust MCP-counter populations and all ESTIMATE metrics","PCD_C1 higher across all 7 robust MCP-counter populations and all ESTIMATE metrics","PCD_C1 consistently exhibits greater immune/stromal abundance"
+"Functional pathways","PCD_C1 inflammatory/immune; PCD_C2 proliferative/metabolic","PCD_C1 inflammatory/immune; PCD_C2 proliferative/metabolic","Among robust Hallmarks, 15 favor PCD_C1 and 20 favor PCD_C2"
+"Mutation burden","Median mutations: C1=126, C2=210.5; Wilcoxon p=1.33e-06","Median mutations: C1=199, C2=185; Wilcoxon p=2.05e-01","Overall mutation-burden association is histology-specific"
+"Shared mutation gene","KEAP1: 2.5% in C1 vs 36.4% in C2","KEAP1: 2.9% in C1 vs 21.1% in C2","KEAP1 enrichment in PCD_C2 is shared across LUAD and LUSC"
+"Copy-number burden","PCD_C2 higher; adjusted p=8.95e-11","PCD_C2 higher; adjusted p=9.82e-12","Higher absolute CNV burden in PCD_C2 is reproducible across both histologies"
+"Methylation","15,905 DMPs; 15,570 C2-hypomethylated","21,043 DMPs; 15,547 C2-hypermethylated","2,056 shared DMPs; 1,570 concordant; 1,408 concordant sites are C2-hypomethylated"

@@ -1,0 +1,4 @@
+"timepoint","n_external_cohorts","median_AUC","min_AUC","max_AUC","cohorts_AUC_above_0_5","total_events_by_time","total_known_survivors_beyond_time"
+"1 year",4,0.6853078744757,0.578513710441929,0.731375304333223,4,106,1057
+"3 years",4,0.606075669609028,0.550672942441372,0.732149985711978,4,297,609
+"5 years",4,0.603934101320875,0.585605194751598,0.720653531878996,4,377,329

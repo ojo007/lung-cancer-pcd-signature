@@ -8,10 +8,6 @@
 # Data and generated outputs
 01_raw_data/
 02_processed_data/
-04_results/
-05_figures/
-06_tables/
-07_manuscript/
 
 # Local credentials
 .env
@@ -21,3 +17,9 @@
 # Windows files
 Thumbs.db
 Desktop.ini
+
+# Temporary ESTIMATE input files
+/04_results/immune/estimate_temp/
+
+# Temporary ESTIMATE input files
+/04_results/immune/estimate_temp/

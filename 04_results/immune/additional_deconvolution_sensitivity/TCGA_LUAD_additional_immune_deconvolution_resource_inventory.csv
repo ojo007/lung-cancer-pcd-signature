@@ -1,0 +1,9 @@
+"resource","available"
+"xCell package",FALSE
+"immunedeconv package",FALSE
+"IOBR package",FALSE
+"CIBERSORT/LM22 project resource",FALSE
+"CIBERSORT/LM22 R-library resource",FALSE
+"TCGA-LUAD patient TPM",TRUE
+"Subtype assignments",TRUE
+"MPCDS patient scores",TRUE

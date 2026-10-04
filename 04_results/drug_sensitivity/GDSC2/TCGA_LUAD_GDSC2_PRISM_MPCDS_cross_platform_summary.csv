@@ -1,0 +1,5 @@
+"classification","n_drugs"
+"GDSC2 FDR-significant only",19
+"GDSC2 FDR-significant; PRISM direction concordant but not nominal",20
+"Neither cross-platform significance criterion",31
+"PRISM nominal only",2

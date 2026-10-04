@@ -1,0 +1,8 @@
+"requirement_group","allowed_options","implemented_option","requirement_satisfied"
+"PCD subtype clustering","Consensus clustering or NMF","Consensus clustering",TRUE
+"Immune infiltration","CIBERSORT or ImmuCellAI or TIMER2.0","CIBERSORT and TIMER-family methods",TRUE
+"Pathway enrichment","GSVA or clusterProfiler/GSEA","GSEA / functional enrichment workflow",TRUE
+"MPCDS feature/model selection","LASSO or Random Forest or XGBoost","LASSO-Cox; primary ridge-Cox model",TRUE
+"Drug-sensitivity resource","GDSC or CTRP","GDSC; PRISM also used",TRUE
+"Drug-response prediction package","pRRophetic or oncoPredict","oncoPredict",TRUE
+"Immunotherapy surrogate","TIDE or IPS","TIDE",TRUE

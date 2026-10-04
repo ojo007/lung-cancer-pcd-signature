@@ -1,0 +1,9 @@
+"model","term","chisq","df","p_value"
+"Unadjusted","projected_PCD_cluster",5.57066549046938,1,0.0182638180532858
+"Unadjusted","GLOBAL",5.57066549046938,1,0.0182638180532858
+"Clinically adjusted","projected_PCD_cluster",4.05948334249219,1,0.0439239364056379
+"Clinically adjusted","age_10yr",0.0171785262771395,1,0.895722403316421
+"Clinically adjusted","sex",0.000911497736971967,1,0.975914709631975
+"Clinically adjusted","pT",5.80828818089277,3,0.121319213748754
+"Clinically adjusted","pN",2.58996239853855,2,0.273903013859847
+"Clinically adjusted","GLOBAL",12.5863166323688,8,0.126898089699406

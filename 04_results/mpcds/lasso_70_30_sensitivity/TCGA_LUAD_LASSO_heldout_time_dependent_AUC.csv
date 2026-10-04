@@ -1,0 +1,4 @@
+"horizon","time_days","AUC","CI_lower","CI_upper","observed_events_by_horizon","known_event_free_beyond_horizon"
+"1-year",365,0.550677517215195,0.413,0.6884,20,113
+"3-year",1095,0.46228116390687,0.3323,0.5922,41,44
+"5-year",1825,0.478222820680068,0.3232,0.6332,50,16

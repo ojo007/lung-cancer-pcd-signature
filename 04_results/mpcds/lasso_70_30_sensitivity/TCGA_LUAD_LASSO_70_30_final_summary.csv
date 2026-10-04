@@ -1,0 +1,20 @@
+"metric","value"
+"Full TCGA-LUAD cohort",504
+"Training cohort",352
+"Held-out test cohort",152
+"Training events",127
+"Held-out test events",55
+"Initial candidate genes",47
+"lambda.min",0.0606462514027628
+"lambda.1se",0.127654545926793
+"Genes selected at lambda.min",4
+"Genes selected at lambda.1se",0
+"Apparent training C-index",0.657467734572768
+"Held-out test C-index",0.52420814479638
+"Held-out continuous Cox p",0.699790443180607
+"Held-out High-vs-Low HR",0.996126874760337
+"Held-out High-vs-Low Cox p",0.98871849886444
+"Held-out log-rank p",0.988710610788361
+"Held-out 1-year AUC",0.550677517215195
+"Held-out 3-year AUC",0.46228116390687
+"Held-out 5-year AUC",0.478222820680068

@@ -1,0 +1,2 @@
+"accession","histology","n_samples","n_projection_genes","projected_PCD_C1","projected_PCD_C2","mean_correlation_margin","median_correlation_margin","mean_silhouette","mechanisms_directionally_concordant","mechanisms_tested","directional_concordance_percent","strict_FDR_replicated_mechanisms","replicated_mechanisms"
+"GSE31210","LUAD",226,47,125,101,0.465053213322393,0.440587654862163,0.0806584977839448,1,5,20,0,"None"

@@ -1,0 +1,4 @@
+"model","n","C_index","delta_vs_clinical"
+"MPCDS alone",442,0.597272768457136,NA
+"Clinical only",439,0.699569928678564,0
+"Clinical + MPCDS",439,0.714591814870366,0.0150218861918027

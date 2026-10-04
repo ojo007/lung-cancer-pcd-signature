@@ -1,0 +1,5 @@
+"analysis","result","interpretation"
+"70/30 LASSO-Cox sensitivity","Train 352/127 events; test 152/55 events; selected genes GCLC, EGLN3, DSG2, CLSPN; test C=0.5242; log-rank p=0.9887","Sparse single-split model generalized poorly; ridge MPCDS remains primary"
+"Additional immune deconvolution","517 patients; 114 immune features; 113 testable; 45 subtype and 38 MPCDS features at FDR<0.05","xCell, quanTIseq, TIMER, EPIC and CIBERSORT/LM22 used as complementary sensitivity methods"
+"Immune cross-method subtype replication","6 replicated populations; 3 direction conflicts","Cross-method replication supports selected subtype immune-contexture signals"
+"Immune cross-method MPCDS replication","4 replicated populations; 1 direction conflict","Replicated MPCDS associations were negative for B cells, CD4 T cells, Tregs and M2 macrophages"

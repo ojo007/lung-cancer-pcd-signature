@@ -1,0 +1,8 @@
+"item","value"
+"locked_lambda_rule","lambda.min"
+"locked_lambda_value","0.0606462514027628"
+"n_selected_locked_model","4"
+"lambda_1se","0.127654545926793"
+"n_selected_lambda_1se","0"
+"model_selection_timing","Before held-out test evaluation"
+"model_selection_reason","lambda.min was locked before held-out test evaluation because lambda.1se selected zero predictors and therefore represented the null model. lambda.min selected four predictors and was retained as the non-null sparse LASSO-Cox sensitivity model. The held-out test cohort was not used for this decision."

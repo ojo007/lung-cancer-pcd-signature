@@ -1,0 +1,6 @@
+"planned_component","implemented_component","classification","requires_new_analysis"
+"Exact univariate Cox -> LASSO-Cox -> multivariable Cox construction sequence","Univariate Cox, 70/30 LASSO-Cox sensitivity, and clinical multivariable Cox were performed, but not as one sequential feature-selection pipeline","Methodological deviation",FALSE
+"Random 70/30 split as primary model-development strategy","70/30 split performed as sensitivity analysis; repeated nested cross-validation used for primary internal validation","Methodological deviation",FALSE
+"LASSO-Cox as primary MPCDS model","47-gene ridge-Cox score retained as primary LUAD MPCDS after internal validation","Methodological deviation",FALSE
+"Independent treatment-response validation","PRISM cell-line pharmacogenomics and GDSC/oncoPredict transcriptome-derived predictions","Evidence limitation",FALSE
+"IPS analysis","TIDE used; IPS was unavailable","Allowed alternative",FALSE

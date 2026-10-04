@@ -1,0 +1,4 @@
+"horizon","time_days","observed_events_by_horizon","known_event_free_beyond_horizon"
+"1-year",365,20,113
+"3-year",1095,41,44
+"5-year",1825,50,16

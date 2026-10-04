@@ -1,0 +1,2 @@
+"accession","histology","n_samples","n_projection_genes","projected_PCD_C1","projected_PCD_C2","mean_correlation_margin","median_correlation_margin","mean_silhouette","mechanisms_directionally_concordant","mechanisms_tested","directional_concordance_percent","strict_FDR_replicated_mechanisms","replicated_mechanisms"
+"GSE73403","LUSC",69,46,32,37,0.659126670092451,0.676877522392967,0.103539853546925,5,5,100,1,"Ferroptosis"

@@ -1,0 +1,9 @@
+"planned_component","implemented_or_alternative","classification","new_primary_analysis_required"
+"Random Forest prognostic modelling","Not run; LASSO satisfied the stated LASSO/Random Forest/XGBoost alternative","Optional alternative not required",FALSE
+"XGBoost prognostic modelling","Not run; LASSO satisfied the stated LASSO/Random Forest/XGBoost alternative","Optional alternative not required",FALSE
+"CTRP drug-sensitivity dataset","Not run; GDSC satisfied the stated GDSC/CTRP alternative, with PRISM additionally used","Optional alternative not required",FALSE
+"ImmuCellAI immune characterization","Not run; CIBERSORT/TIMER-family methods satisfied the stated immune-method alternatives","Optional alternative not required",FALSE
+"pRRophetic drug prediction","Not run; oncoPredict satisfied the stated pRRophetic/oncoPredict alternative","Optional alternative not required",FALSE
+"IPS immunotherapy surrogate","Not run; TIDE satisfied the stated TIDE/IPS alternative","Optional alternative not required",FALSE
+"Exact 70/30 -> univariate Cox -> LASSO-Cox -> multivariable Cox sequence","Univariate Cox, LASSO sensitivity and multivariable Cox were performed, but not as one sequential construction pipeline","Methodological deviation to document",FALSE
+"Independent patient treatment-response cohort","Treatment sensitivity was evaluated using cell-line pharmacogenomics and transcriptome-derived prediction rather than a patient response cohort","Evidence limitation to document",FALSE

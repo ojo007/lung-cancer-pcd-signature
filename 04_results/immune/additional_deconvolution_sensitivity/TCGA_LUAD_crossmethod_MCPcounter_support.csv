@@ -1,0 +1,8 @@
+"MCPcounter_population","biological_population","MCP_match_tier","LUAD_C1_mean","LUAD_C2_mean","LUAD_difference_C2_minus_C1","LUAD_FDR","LUAD_significant","robust_cross_cohort","LUAD_direction"
+"CD8 T cells","CD8 T cells","strict",1.58402222928237,1.42252919975763,-0.161493029524742,0.00522358396873228,TRUE,TRUE,"Higher in PCD_C1"
+"Endothelial cells","Endothelial cells","strict",3.36953466895899,2.96184939824948,-0.407685270709519,4.92686727031457e-13,TRUE,TRUE,"Higher in PCD_C1"
+"B lineage","B cells","approximate",3.97619376652576,3.54701296077889,-0.429180805746867,3.79217614864274e-06,TRUE,TRUE,"Higher in PCD_C1"
+"Myeloid dendritic cells","Dendritic cells","approximate",3.39539531173568,2.34647971851045,-1.04891559322523,3.5903062795025e-29,TRUE,TRUE,"Higher in PCD_C1"
+"Monocytic lineage","Monocytes","approximate",4.1450791909144,3.55441948493909,-0.590659705975304,1.8449024680496e-17,TRUE,TRUE,"Higher in PCD_C1"
+"Fibroblasts","Fibroblast/CAF axis","approximate",6.6197331404809,6.0730210960782,-0.546712044402692,7.44508119120502e-08,TRUE,TRUE,"Higher in PCD_C1"
+"T cells",NA,"unmapped_broad",2.5556070116746,2.07586908236537,-0.479737929309233,1.01088790675018e-15,TRUE,TRUE,"Higher in PCD_C1"

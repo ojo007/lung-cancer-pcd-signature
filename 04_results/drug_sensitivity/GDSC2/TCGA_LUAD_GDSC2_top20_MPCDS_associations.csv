@@ -1,0 +1,21 @@
+"drug_column","drug_name","gdsc_drug_id","n","rho","p_value","direction","FDR","significant_FDR_0.05","nominal_p_0.05"
+"Doramapimod_1042","Doramapimod","1042",504,0.541180545205898,1.09472365173482e-39,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",2.16755283043494e-37,TRUE,TRUE
+"PF-4708671_1129","PF-4708671","1129",504,0.421098022895161,4.42155190635641e-23,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",3.86464043025532e-21,TRUE,TRUE
+"BI-2536_1086","BI-2536","1086",504,-0.420012691413987,5.85551580341716e-23,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",3.86464043025532e-21,TRUE,TRUE
+"MK-1775_1179","MK-1775","1179",504,-0.415026671653249,2.100498170533e-22,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",1.03974659441384e-20,TRUE,TRUE
+"GSK269962A_1192","GSK269962A","1192",504,0.398090757669916,1.37590639637473e-20,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",5.44858932964393e-19,TRUE,TRUE
+"Ribociclib_1632","Ribociclib","1632",504,0.396391382961074,2.06610404628735e-20,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",6.04300098616566e-19,TRUE,TRUE
+"Docetaxel_1007","Docetaxel","1007",504,-0.396251065038341,2.13641449005857e-20,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",6.04300098616566e-19,TRUE,TRUE
+"BMS-754807_2171","BMS-754807","2171",504,0.374020469357359,3.51736541963438e-18,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",8.70547941359508e-17,TRUE,TRUE
+"AZD6738_1917","AZD6738","1917",504,-0.361281251669615,5.51573448060368e-17,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",1.21346158573281e-15,TRUE,TRUE
+"Docetaxel_1819","Docetaxel","1819",504,-0.353693304576126,2.68291406303609e-16,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",5.31216984481145e-15,TRUE,TRUE
+"Paclitaxel_1080","Paclitaxel","1080",504,-0.335889706550888,9.31877420175376e-15,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",1.67737935631568e-13,TRUE,TRUE
+"PRIMA-1MET_1131","PRIMA-1MET","1131",504,0.313723599000059,5.66278123107875e-13,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",9.34358903127993e-12,TRUE,TRUE
+"Elephantin_1835","Elephantin","1835",504,0.308798130594088,1.3481682649031e-12,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",2.05336397269857e-11,TRUE,TRUE
+"AZD6482_2169","AZD6482","2169",504,0.304639958457646,2.76908492485703e-12,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",3.91627725086923e-11,TRUE,TRUE
+"Lapatinib_1558","Lapatinib","1558",504,-0.303339697786876,3.45994650570568e-12,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",4.56712938753149e-11,TRUE,TRUE
+"UMI-77_1939","UMI-77","1939",504,-0.298957504384349,7.27021755753036e-12,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",8.99689422744382e-11,TRUE,TRUE
+"SB216763_1025","SB216763","1025",504,0.296494863914111,1.09745871209334e-11,"Higher MPCDS associated with higher predicted IC50 (greater predicted resistance)",1.2782166176146e-10,TRUE,TRUE
+"Wee1 Inhibitor_1046","Wee1 Inhibitor","1046",504,-0.294300861497681,1.57864947222724e-11,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",1.68356422574749e-10,TRUE,TRUE
+"Savolitinib_1936","Savolitinib","1936",504,-0.29416082477319,1.61554142874759e-11,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",1.68356422574749e-10,TRUE,TRUE
+"YK-4-279_1239","YK-4-279","1239",504,-0.286727349247279,5.40793597239403e-11,"Higher MPCDS associated with lower predicted IC50 (greater predicted sensitivity)",5.35385661267009e-10,TRUE,TRUE

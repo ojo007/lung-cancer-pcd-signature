@@ -1,0 +1,4 @@
+"gene_name","PCD_types","LUAD_log2FC","LUAD_padj","LUAD_status","LUSC_log2FC","LUSC_padj","LUSC_status","comparison_class"
+"TFRC","Ferroptosis",-1.05154862015229,4.70407617708025e-13,"Down",1.46634906779496,6.09586756044778e-16,"Up","Opposite: LUAD Down / LUSC Up"
+"DPP4","Ferroptosis",1.2637966343603,4.44208669016215e-09,"Up",-1.48772531311435,2.35246392735996e-10,"Down","Opposite: LUAD Up / LUSC Down"
+"IL1A","Pyroptosis",-1.44519445282928,5.673548919831e-08,"Down",1.81801738288535,4.74926427114448e-09,"Up","Opposite: LUAD Down / LUSC Up"

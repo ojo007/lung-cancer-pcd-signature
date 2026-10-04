@@ -1,0 +1,12 @@
+"metric","value"
+"TCGA discovery patients",501
+"TCGA PCD_C1",286
+"TCGA PCD_C2",215
+"External samples",69
+"PCD genes available",46
+"PCD gene coverage percent",97.8723404255319
+"Projected PCD_C1",32
+"Projected PCD_C2",37
+"Mean correlation margin",0.659126670092451
+"Median correlation margin",0.676877522392967
+"Mean silhouette width",0.103539853546925

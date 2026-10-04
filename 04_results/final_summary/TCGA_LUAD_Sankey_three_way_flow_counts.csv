@@ -1,0 +1,17 @@
+"PCD_cluster","risk_group","stage_group","n_patients"
+"PCD_C1","High MPCDS","Stage I",44
+"PCD_C2","High MPCDS","Stage I",65
+"PCD_C1","Low MPCDS","Stage I",111
+"PCD_C2","Low MPCDS","Stage I",50
+"PCD_C1","High MPCDS","Stage II",27
+"PCD_C2","High MPCDS","Stage II",39
+"PCD_C1","Low MPCDS","Stage II",39
+"PCD_C2","Low MPCDS","Stage II",15
+"PCD_C1","High MPCDS","Stage III",25
+"PCD_C2","High MPCDS","Stage III",34
+"PCD_C1","Low MPCDS","Stage III",14
+"PCD_C2","Low MPCDS","Stage III",8
+"PCD_C1","High MPCDS","Stage IV",5
+"PCD_C2","High MPCDS","Stage IV",10
+"PCD_C1","Low MPCDS","Stage IV",5
+"PCD_C2","Low MPCDS","Stage IV",5

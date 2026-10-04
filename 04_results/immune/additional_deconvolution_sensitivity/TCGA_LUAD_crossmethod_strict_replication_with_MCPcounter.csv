@@ -1,0 +1,18 @@
+"biological_population","match_tier","n_methods_mapped","methods","subtype_n_FDR05","subtype_n_FDR05_higher_C1","subtype_n_FDR05_higher_C2","subtype_significant_conflict","subtype_replicated_FDR05","subtype_replication_direction","subtype_all_methods_direction_concordant","MPCDS_n_FDR05","MPCDS_n_FDR05_negative","MPCDS_n_FDR05_positive","MPCDS_significant_conflict","MPCDS_replicated_FDR05","MPCDS_replication_direction","MPCDS_all_methods_direction_concordant","MCPcounter_population","MCP_match_tier","LUAD_difference_C2_minus_C1","LUAD_FDR","LUAD_significant","robust_cross_cohort","LUAD_direction"
+"B cells","strict",4,"xCell; quanTIseq; TIMER; EPIC",2,2,0,FALSE,TRUE,"Higher in PCD_C1",TRUE,3,3,0,FALSE,TRUE,"Negative with MPCDS",TRUE,"B lineage","approximate",-0.429180805746867,3.79217614864274e-06,TRUE,TRUE,"Higher in PCD_C1"
+"CD8 T cells","strict",5,"xCell; quanTIseq; TIMER; EPIC; CIBERSORT",3,2,1,TRUE,FALSE,NA,FALSE,0,0,0,FALSE,FALSE,NA,TRUE,"CD8 T cells","strict",-0.161493029524742,0.00522358396873228,TRUE,TRUE,"Higher in PCD_C1"
+"Monocytes","strict",3,"xCell; quanTIseq; CIBERSORT",2,1,1,TRUE,FALSE,NA,FALSE,1,1,0,FALSE,FALSE,NA,FALSE,"Monocytic lineage","approximate",-0.590659705975304,1.8449024680496e-17,TRUE,TRUE,"Higher in PCD_C1"
+"Dendritic cells","strict",3,"xCell; quanTIseq; TIMER",2,1,1,TRUE,FALSE,NA,FALSE,2,1,1,TRUE,FALSE,NA,FALSE,"Myeloid dendritic cells","approximate",-1.04891559322523,3.5903062795025e-29,TRUE,TRUE,"Higher in PCD_C1"
+"Endothelial cells","strict",2,"xCell; EPIC",1,1,0,FALSE,FALSE,NA,FALSE,1,1,0,FALSE,FALSE,NA,TRUE,"Endothelial cells","strict",-0.407685270709519,4.92686727031457e-13,TRUE,TRUE,"Higher in PCD_C1"
+"CD4 T cells","strict",4,"xCell; quanTIseq; TIMER; EPIC",2,2,0,FALSE,TRUE,"Higher in PCD_C1",FALSE,2,2,0,FALSE,TRUE,"Negative with MPCDS",TRUE,NA,NA,NA,NA,NA,NA,NA
+"Naive B cells","strict",2,"xCell; CIBERSORT",1,0,1,FALSE,FALSE,NA,FALSE,0,0,0,FALSE,FALSE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+"Memory B cells","strict",2,"xCell; CIBERSORT",1,1,0,FALSE,FALSE,NA,TRUE,1,1,0,FALSE,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,NA
+"Plasma cells","strict",2,"xCell; CIBERSORT",2,0,2,FALSE,TRUE,"Higher in PCD_C2",TRUE,1,1,0,FALSE,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,NA
+"NK cells","strict",3,"xCell; quanTIseq; EPIC",0,0,0,FALSE,FALSE,NA,FALSE,0,0,0,FALSE,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,NA
+"Regulatory T cells","strict",3,"xCell; quanTIseq; CIBERSORT",1,1,0,FALSE,FALSE,NA,TRUE,2,2,0,FALSE,TRUE,"Negative with MPCDS",TRUE,NA,NA,NA,NA,NA,NA,NA
+"Gamma-delta T cells","strict",2,"xCell; CIBERSORT",1,0,1,FALSE,FALSE,NA,TRUE,0,0,0,FALSE,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,NA
+"M2 macrophages","strict",3,"xCell; quanTIseq; CIBERSORT",2,2,0,FALSE,TRUE,"Higher in PCD_C1",FALSE,2,2,0,FALSE,TRUE,"Negative with MPCDS",TRUE,NA,NA,NA,NA,NA,NA,NA
+"Macrophages","strict",3,"xCell; TIMER; EPIC",3,3,0,FALSE,TRUE,"Higher in PCD_C1",TRUE,1,1,0,FALSE,FALSE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+"M1 macrophages","strict",3,"xCell; quanTIseq; CIBERSORT",1,1,0,FALSE,FALSE,NA,FALSE,1,0,1,FALSE,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,NA
+"Neutrophils","strict",4,"xCell; quanTIseq; TIMER; CIBERSORT",2,2,0,FALSE,TRUE,"Higher in PCD_C1",TRUE,0,0,0,FALSE,FALSE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+"Eosinophils","strict",2,"xCell; CIBERSORT",0,0,0,FALSE,FALSE,NA,TRUE,0,0,0,FALSE,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,NA

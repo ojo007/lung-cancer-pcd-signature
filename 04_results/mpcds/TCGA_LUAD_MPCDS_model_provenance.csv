@@ -1,0 +1,2 @@
+"model","candidate_genes","nested_repeats","outer_folds","inner_folds","alpha_grid","final_alpha","final_lambda","final_cv_folds","standardize","glmnet_version","survival_version","R_version","analysis_date"
+"LUAD ridge-Cox MPCDS",47,20,5,5,"0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1",0,0.60463220391309,10,TRUE,"5.0","3.8.3","R version 4.5.2 (2025-10-31 ucrt)","2026-09-26"

@@ -1,0 +1,3 @@
+"histology","n_cohorts","n_successful","total_samples","median_projection_genes","median_silhouette","median_directional_concordance_percent"
+"LUAD",4,4,1239,46.5,0.0867894119131286,60
+"LUSC",4,4,516,46.5,0.109588035053891,100

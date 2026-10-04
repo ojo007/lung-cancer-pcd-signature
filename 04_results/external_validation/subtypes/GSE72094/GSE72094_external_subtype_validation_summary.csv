@@ -1,0 +1,2 @@
+"accession","histology","n_samples","n_projection_genes","projected_PCD_C1","projected_PCD_C2","mean_correlation_margin","median_correlation_margin","mean_silhouette","mechanisms_directionally_concordant","mechanisms_tested","directional_concordance_percent","strict_FDR_replicated_mechanisms","replicated_mechanisms"
+"GSE72094","LUAD",442,46,248,194,0.614617313804516,0.606492120581047,0.102492714803331,4,5,80,2,"Necroptosis;Pyroptosis"

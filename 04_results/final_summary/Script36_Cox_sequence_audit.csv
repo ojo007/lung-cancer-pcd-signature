@@ -1,0 +1,4 @@
+"component","evidence_found","same_sequential_pipeline"
+"Univariate Cox",TRUE,NA
+"LASSO-Cox",TRUE,NA
+"Multivariable Cox",TRUE,FALSE

@@ -1,0 +1,94 @@
+FINAL THESIS RESULTS PACKAGE
+
+Generated from the validated analytical pipeline through Scripts 32 and 34. No new statistical modelling is performed in Script 33.
+
+HEADLINE RESULTS
+
+1. PCD catalogue
+Result: 296 unique genes across five programmed-cell-death programmes
+Interpretation boundary: Curated reference catalogue
+
+2. Concordant PCD candidate set
+Result: 47 concordantly dysregulated tumour-normal genes
+Interpretation boundary: Not itself a prognostic signature
+
+3. Molecular subtypes
+Result: Two expression-derived PCD subtypes retained independently in LUAD and LUSC
+Interpretation boundary: Expression-derived groups; not causal entities
+
+4. External subtype validation
+Result: Eight independent GEO cohorts showed partial, mechanism-specific reproducibility
+Interpretation boundary: External silhouettes were modest
+
+5. Multi-omics characterization
+Result: Subtype differences extended across mutation, CNV, methylation, pathways and immune contexture
+Interpretation boundary: Multi-layer characterization, not a joint multi-omics integration model
+
+6. LUAD MPCDS internal performance
+Result: Repeated nested-CV C-index 0.6043
+Interpretation boundary: Modest discrimination
+
+7. LUSC MPCDS feasibility
+Result: Repeated nested-CV C-index 0.5051; no defensible LUSC MPCDS
+Interpretation boundary: Negative/weak finding retained
+
+8. LUAD external MPCDS validation
+Result: Four LUAD GEO cohorts; adverse-risk direction in 4/4 and significant in 3/4
+Interpretation boundary: Fixed TCGA weights; no outcome refitting
+
+9. Time-dependent discrimination
+Result: External 1/3/5-year AUCs generally above 0.5, with sparse-horizon uncertainty
+Interpretation boundary: Interpret sparse follow-up horizons cautiously
+
+10. Decision-curve analysis
+Result: Clinical+MPCDS C-index 0.7243 vs 0.6741 clinical-only in TCGA complete cases
+Interpretation boundary: Exploratory/apparent development-cohort analysis
+
+11. PRISM pharmacogenomics
+Result: 1,440 compounds tested; no FDR-significant associations
+Interpretation boundary: Cell-line pharmacogenomic evidence only
+
+12. GDSC2 predicted sensitivity
+Result: 110 MPCDS and 104 subtype associations at FDR<0.05; limited PRISM concordance
+Interpretation boundary: Transcriptome-derived in-silico prediction, not observed patient response
+
+13. Immunotherapy-related indicators
+Result: CD274 and nonsynonymous mutation burden associated with MPCDS; MANTIS was not
+Interpretation boundary: Mutation burden is not formal mutations-per-megabase TMB
+
+14. TIDE surrogate analysis
+Result: Higher MPCDS associated with higher TIDE; PCD_C2 had more TIDE no-benefits cases
+Interpretation boundary: TIDE is an in-silico surrogate, not observed ICI response
+
+15. LASSO sensitivity analysis
+Result: Four-gene sparse model showed held-out C-index 0.5242
+Interpretation boundary: Sensitivity analysis only; does not replace primary ridge model
+
+16. Immune deconvolution sensitivity
+Result: Five complementary deconvolution methods identified replicated and method-dependent immune signals
+Interpretation boundary: Cross-method agreement prioritized over any single method
+
+17. Integrative PCA/Sankey
+Result: 47-gene PCA plus 496-patient subtype-MPCDS-stage Sankey dataset
+Interpretation boundary: Descriptive integrative visualization
+
+CANONICAL OUTPUT STRUCTURE
+
+Figures:
+  05_figures/manuscript/main/
+  05_figures/manuscript/individual/
+  05_figures/manuscript/individual/pcd_pathways/ (five literature-based schematics)
+  05_figures/manuscript/individual/external_validation/ (four GEO ROC panels)
+  05_figures/manuscript/supplementary/
+
+Tables:
+  06_tables/final/
+
+Final summaries:
+  04_results/final_summary/
+
+Publication figure files verified: 138 (21 main, 96 individual, 21 supplementary).
+
+Final thesis table files verified: 9.
+
+Important: the package is an index of canonical outputs. Files are not duplicated into a second final folder.

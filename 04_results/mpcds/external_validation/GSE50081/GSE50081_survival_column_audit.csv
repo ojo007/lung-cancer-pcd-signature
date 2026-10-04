@@ -1,0 +1,2 @@
+"accession","time_column","event_column","source_time_unit","analysis_time_unit","time_strategy","n_phenotype_samples","n_OS_usable","n_events"
+"GSE50081","survival time:ch1","status:ch1","years","months","GSE50081_survival_time_years",128,128,52

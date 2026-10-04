@@ -1,0 +1,7 @@
+"metric","value"
+"lambda.min",0.0606462514027628
+"lambda.1se",0.127654545926793
+"n_selected_lambda.min",4
+"n_selected_lambda.1se",0
+"CV_seed",33002
+"CV_folds",10

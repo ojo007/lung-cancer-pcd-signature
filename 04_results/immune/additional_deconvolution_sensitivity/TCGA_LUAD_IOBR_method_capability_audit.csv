@@ -1,0 +1,5 @@
+"method","success","elapsed_seconds","warnings","error"
+"xcell",TRUE,8.36396598815918,"",NA
+"epic",TRUE,5.54463791847229,"mRNA_cell value unknown for some cell types: CAFs, Endothelial - using the default value of 0.4 for these but this might bias the true cell proportions from all cell types.",NA
+"quantiseq",TRUE,16.8902680873871,"",NA
+"cibersort",TRUE,251.57256102562,"",NA

@@ -1,0 +1,11 @@
+"metric","value"
+"strict_biological_populations",17
+"strict_subtype_replicated_FDR05",6
+"strict_MPCDS_replicated_FDR05",4
+"strict_subtype_significant_conflicts",3
+"strict_MPCDS_significant_conflicts",1
+"strict_subtype_all_direction_concordant",8
+"strict_MPCDS_all_direction_concordant",9
+"approximate_biological_populations",1
+"MCPcounter_populations_total",7
+"MCPcounter_populations_mapped_to_five_method_groups",6

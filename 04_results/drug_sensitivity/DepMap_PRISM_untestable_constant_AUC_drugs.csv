@@ -1,0 +1,3 @@
+"drug_full_name","n","auc_unique_values","auc_SD","spearman_rho","p_value","FDR","drug_name","BRD_ID","association_direction"
+"ETOFYLLINE-CLOFIBRATE (BRD:BRD-K49840922-001-05-1)",34,1,0,NA,NA,NA,"ETOFYLLINE-CLOFIBRATE","BRD-K49840922-001-05-1","Not tested"
+"METOPROLOL (BRD:BRD-A03623303-045-09-5)",35,1,0,NA,NA,NA,"METOPROLOL","BRD-A03623303-045-09-5","Not tested"

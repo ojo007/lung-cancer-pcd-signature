@@ -1,0 +1,6 @@
+"method","n_features","n_tested","FDR_lt_0_05","FDR_lt_0_10"
+"xCell",67,67,13,14
+"quanTIseq",11,11,5,5
+"TIMER",6,6,3,3
+"EPIC",8,8,5,7
+"CIBERSORT",22,21,12,13

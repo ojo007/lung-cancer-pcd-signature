@@ -1,0 +1,2 @@
+"cohort","n","events","locked_model","n_genes","HR_per_1_unit_LP","HR_CI_lower","HR_CI_upper","Cox_p","Harrell_C_index","C_index_SE"
+"Held-out test",152,55,"lambda.min",4,1.27598135133507,0.369703452257656,4.40387667199866,0.699790443180607,0.52420814479638,0.0467379686221982

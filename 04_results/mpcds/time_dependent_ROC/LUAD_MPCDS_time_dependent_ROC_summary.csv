@@ -1,0 +1,7 @@
+"timepoint","cohort","time_value","time_unit","n","events","AUC","CI_lower","CI_upper","events_by_time","known_survivors_beyond_time","censored_before_or_at_time"
+"1 year","TCGA-LUAD",365,"days",504,182,0.70543081494939,0.6357,0.7752,57,398,49
+"3 years","TCGA-LUAD",1095,"days",504,182,0.709170730169188,0.6454,0.773,136,134,234
+"5 years","TCGA-LUAD",1825,"days",504,182,0.649344321662485,0.567,0.7317,171,53,280
+"1 year","GSE68465",12,"months",442,236,0.645390523726175,0.571,0.7198,49,391,2
+"3 years","GSE68465",36,"months",442,236,0.637474332849473,0.5815,0.6935,141,272,29
+"5 years","GSE68465",60,"months",442,236,0.585605194751598,0.5261,0.6451,187,169,86

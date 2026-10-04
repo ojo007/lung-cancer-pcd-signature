@@ -1,0 +1,15 @@
+"metric","value"
+"PCA patients",517
+"PCA genes",47
+"PC1 variance percent",15.697042
+"PC2 variance percent",11.770018
+"PC1+PC2 cumulative percent",27.46706
+"Sankey complete-case patients",496
+"Sankey PCD_C1",270
+"Sankey PCD_C2",226
+"Sankey Low MPCDS",247
+"Sankey High MPCDS",249
+"Stage I",270
+"Stage II",120
+"Stage III",81
+"Stage IV",25

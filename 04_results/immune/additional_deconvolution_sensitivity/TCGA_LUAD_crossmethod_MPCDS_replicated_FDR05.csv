@@ -1,0 +1,5 @@
+"biological_population","match_tier","n_methods_mapped","methods","subtype_n_FDR05","subtype_n_FDR05_higher_C1","subtype_n_FDR05_higher_C2","subtype_significant_conflict","subtype_replicated_FDR05","subtype_replication_direction","subtype_all_methods_direction_concordant","MPCDS_n_FDR05","MPCDS_n_FDR05_negative","MPCDS_n_FDR05_positive","MPCDS_significant_conflict","MPCDS_replicated_FDR05","MPCDS_replication_direction","MPCDS_all_methods_direction_concordant"
+"B cells","strict",4,"xCell; quanTIseq; TIMER; EPIC",2,2,0,FALSE,TRUE,"Higher in PCD_C1",TRUE,3,3,0,FALSE,TRUE,"Negative with MPCDS",TRUE
+"CD4 T cells","strict",4,"xCell; quanTIseq; TIMER; EPIC",2,2,0,FALSE,TRUE,"Higher in PCD_C1",FALSE,2,2,0,FALSE,TRUE,"Negative with MPCDS",TRUE
+"Regulatory T cells","strict",3,"xCell; quanTIseq; CIBERSORT",1,1,0,FALSE,FALSE,NA,TRUE,2,2,0,FALSE,TRUE,"Negative with MPCDS",TRUE
+"M2 macrophages","strict",3,"xCell; quanTIseq; CIBERSORT",2,2,0,FALSE,TRUE,"Higher in PCD_C1",FALSE,2,2,0,FALSE,TRUE,"Negative with MPCDS",TRUE

@@ -1,0 +1,2 @@
+"accession","time_column","event_column","source_time_unit","analysis_time_unit","time_strategy","n_phenotype_samples","n_OS_usable","n_events"
+"GSE72094","survival_time_in_days:ch1","vital_status:ch1","days","months","single_OS_days_column",442,398,113

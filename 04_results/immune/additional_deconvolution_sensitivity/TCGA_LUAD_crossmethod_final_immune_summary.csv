@@ -1,0 +1,18 @@
+"biological_population","n_methods_mapped","subtype_n_FDR05","subtype_replicated_FDR05","subtype_replication_direction","subtype_significant_conflict","MPCDS_n_FDR05","MPCDS_replicated_FDR05","MPCDS_replication_direction","MPCDS_significant_conflict","subtype_status","MPCDS_status","MCPcounter_population","MCP_match_tier","LUAD_FDR","LUAD_direction","robust_cross_cohort"
+"B cells",4,2,TRUE,"Higher in PCD_C1",FALSE,3,TRUE,"Negative with MPCDS",FALSE,"Higher in PCD_C1","Negative with MPCDS","B lineage","approximate",3.79217614864274e-06,"Higher in PCD_C1",TRUE
+"Naive B cells",2,1,FALSE,NA,FALSE,0,FALSE,NA,FALSE,"Not replicated","Not replicated",NA,NA,NA,NA,NA
+"Memory B cells",2,1,FALSE,NA,FALSE,1,FALSE,NA,FALSE,"Not replicated","Not replicated",NA,NA,NA,NA,NA
+"Plasma cells",2,2,TRUE,"Higher in PCD_C2",FALSE,1,FALSE,NA,FALSE,"Higher in PCD_C2","Not replicated",NA,NA,NA,NA,NA
+"CD4 T cells",4,2,TRUE,"Higher in PCD_C1",FALSE,2,TRUE,"Negative with MPCDS",FALSE,"Higher in PCD_C1","Negative with MPCDS",NA,NA,NA,NA,NA
+"CD8 T cells",5,3,FALSE,NA,TRUE,0,FALSE,NA,FALSE,"Conflicting significant directions","Not replicated","CD8 T cells","strict",0.00522358396873228,"Higher in PCD_C1",TRUE
+"Regulatory T cells",3,1,FALSE,NA,FALSE,2,TRUE,"Negative with MPCDS",FALSE,"Not replicated","Negative with MPCDS",NA,NA,NA,NA,NA
+"Gamma-delta T cells",2,1,FALSE,NA,FALSE,0,FALSE,NA,FALSE,"Not replicated","Not replicated",NA,NA,NA,NA,NA
+"NK cells",3,0,FALSE,NA,FALSE,0,FALSE,NA,FALSE,"Not replicated","Not replicated",NA,NA,NA,NA,NA
+"Monocytes",3,2,FALSE,NA,TRUE,1,FALSE,NA,FALSE,"Conflicting significant directions","Not replicated","Monocytic lineage","approximate",1.8449024680496e-17,"Higher in PCD_C1",TRUE
+"Macrophages",3,3,TRUE,"Higher in PCD_C1",FALSE,1,FALSE,NA,FALSE,"Higher in PCD_C1","Not replicated",NA,NA,NA,NA,NA
+"M1 macrophages",3,1,FALSE,NA,FALSE,1,FALSE,NA,FALSE,"Not replicated","Not replicated",NA,NA,NA,NA,NA
+"M2 macrophages",3,2,TRUE,"Higher in PCD_C1",FALSE,2,TRUE,"Negative with MPCDS",FALSE,"Higher in PCD_C1","Negative with MPCDS",NA,NA,NA,NA,NA
+"Dendritic cells",3,2,FALSE,NA,TRUE,2,FALSE,NA,TRUE,"Conflicting significant directions","Conflicting significant directions","Myeloid dendritic cells","approximate",3.5903062795025e-29,"Higher in PCD_C1",TRUE
+"Neutrophils",4,2,TRUE,"Higher in PCD_C1",FALSE,0,FALSE,NA,FALSE,"Higher in PCD_C1","Not replicated",NA,NA,NA,NA,NA
+"Eosinophils",2,0,FALSE,NA,FALSE,0,FALSE,NA,FALSE,"Not replicated","Not replicated",NA,NA,NA,NA,NA
+"Endothelial cells",2,1,FALSE,NA,FALSE,1,FALSE,NA,FALSE,"Not replicated","Not replicated","Endothelial cells","strict",4.92686727031457e-13,"Higher in PCD_C1",TRUE

@@ -1,0 +1,6 @@
+"PCD_type","n_total_curated","n_projection_genes_removed","n_after_projection_exclusion","n_GEO_heldout","n_TCGA_heldout","n_common_heldout"
+"Apoptosis",166,24,142,138,142,138
+"Cuproptosis",12,1,11,11,11,11
+"Ferroptosis",89,20,69,66,69,66
+"Necroptosis",32,0,32,31,32,31
+"Pyroptosis",27,2,25,24,25,24

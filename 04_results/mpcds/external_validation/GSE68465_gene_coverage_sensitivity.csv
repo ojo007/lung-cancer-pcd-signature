@@ -1,0 +1,2 @@
+"original_genes","available_genes","missing_gene","gene_coverage_percent","absolute_weight_coverage_percent","TCGA_46_vs_47_Pearson","TCGA_46_vs_47_Spearman","TCGA_original_47_C","TCGA_compatible_46_C","TCGA_high_low_agreement"
+47,46,"UACA",97.8723404255319,97.0133728036882,0.99598176909735,0.995048098959285,0.676366735662973,0.677137870855148,0.968253968253968

@@ -1,0 +1,11 @@
+"histology","PCD_type","n_cohorts","n_direction_concordant","n_strict_FDR_replication"
+"LUAD","Apoptosis",4,0,0
+"LUAD","Cuproptosis",4,4,0
+"LUAD","Ferroptosis",4,1,0
+"LUAD","Necroptosis",4,3,2
+"LUAD","Pyroptosis",4,3,2
+"LUSC","Apoptosis",4,4,2
+"LUSC","Cuproptosis",4,4,0
+"LUSC","Ferroptosis",4,4,4
+"LUSC","Necroptosis",4,3,0
+"LUSC","Pyroptosis",4,3,0

@@ -1,0 +1,9 @@
+"planned","verified_alternative","final_classification","requires_decision"
+"Random Forest / XGBoost prognostic modelling","Primary ridge-Cox MPCDS plus 70/30 LASSO-Cox sensitivity",NA,TRUE
+"CTRP drug sensitivity","PRISM pharmacogenomics plus GDSC/oncoPredict predictions",NA,TRUE
+"ImmuCellAI immune characterization","Multiple complementary immune deconvolution methods including CIBERSORT/xCell/quanTIseq/EPIC/TIMER where available",NA,TRUE
+"TIMER2 immune characterization","TIMER-family analysis where present in the existing immune workflow",NA,TRUE
+"pRRophetic drug prediction","oncoPredict",NA,TRUE
+"IPS immunotherapy surrogate","TIDE",NA,TRUE
+"Exact univariate -> LASSO -> multivariable Cox sequence","Separate univariate Cox, LASSO sensitivity and clinical multivariable Cox analyses",NA,TRUE
+"Independent patient treatment-response validation","Cell-line pharmacogenomics and transcriptome-derived predicted drug sensitivity",NA,TRUE

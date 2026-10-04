@@ -1,0 +1,4 @@
+"figure","description","cohort_n","analysis_type","png_file","pdf_file"
+"Figure S18","TCGA-LUAD 47-gene PCD subtype PCA",517,"Descriptive PCA","05_figures/manuscript/supplementary/Figure_S18_TCGA_LUAD_47gene_PCD_subtype_PCA.png","05_figures/manuscript/supplementary/Figure_S18_TCGA_LUAD_47gene_PCD_subtype_PCA.pdf"
+"Figure S19","TCGA-LUAD PCD subtype to MPCDS group to AJCC stage Sankey",496,"Descriptive alluvial visualization","05_figures/manuscript/supplementary/Figure_S19_TCGA_LUAD_PCD_MPCDS_stage_Sankey.png","05_figures/manuscript/supplementary/Figure_S19_TCGA_LUAD_PCD_MPCDS_stage_Sankey.pdf"
+"Figure S20","Combined TCGA-LUAD PCA and Sankey integrative panel",NA,"Composite visualization","05_figures/manuscript/supplementary/Figure_S20_TCGA_LUAD_integrative_PCA_Sankey.png","05_figures/manuscript/supplementary/Figure_S20_TCGA_LUAD_integrative_PCA_Sankey.pdf"

@@ -1,0 +1,5 @@
+"item","value"
+"timeROC_AUC_scale","0-1 proportion"
+"timeROC_confint_raw_scale","0-100 percentage"
+"saved_CI_scale","0-1 proportion"
+"correction","Percentage scale converted to proportion scale"

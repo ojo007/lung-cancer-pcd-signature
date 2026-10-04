@@ -1,0 +1,2 @@
+"accession","time_column","event_column","source_time_unit","analysis_time_unit","time_strategy","n_phenotype_samples","n_OS_usable","n_events"
+"GSE31210","days before death/censor:ch1","death:ch1","days","months","GSE31210_days_before_death_or_censor",226,226,35

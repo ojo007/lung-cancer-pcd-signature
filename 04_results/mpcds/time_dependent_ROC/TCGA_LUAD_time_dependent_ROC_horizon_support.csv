@@ -1,0 +1,4 @@
+"cohort","timepoint","horizon","time_unit","events_by_time","known_survivors_beyond_time","censored_before_or_at_time","total"
+"TCGA-LUAD","1 year",365,"days",57,398,49,504
+"TCGA-LUAD","3 years",1095,"days",136,134,234,504
+"TCGA-LUAD","5 years",1825,"days",171,53,280,504

@@ -1,0 +1,8 @@
+"topic","interpretation"
+"GDSC2 MPCDS","110 of 198 predicted GDSC2 drug responses were associated with MPCDS at BH FDR < 0.05; 59 indicated greater predicted sensitivity with higher MPCDS and 51 indicated greater predicted resistance."
+"GDSC2 PCD subtype","104 predicted drug responses differed between PCD_C1 and PCD_C2 at BH FDR < 0.05; 38 had lower predicted IC50 in PCD_C2 and 66 had higher predicted IC50 in PCD_C2."
+"Cross-platform overlap","72 unambiguous drugs were testable in both GDSC2 and PRISM."
+"Cross-platform concordance","37 of 72 testable matched drugs were directionally concordant (51.4%); concordance did not exceed chance expectation."
+"Cross-platform effect correlation","GDSC2 and PRISM MPCDS effect sizes showed negligible correlation (Spearman rho = -0.090, p = 0.453)."
+"Cross-platform replication","No GDSC2 FDR-significant matched drug also reached nominal PRISM p < 0.05."
+"Scientific conclusion","GDSC2/oncoPredict findings therefore represent in silico drug-sensitivity hypotheses rather than independently validated therapeutic-response biomarkers."

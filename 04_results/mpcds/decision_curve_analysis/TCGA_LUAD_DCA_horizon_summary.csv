@@ -1,0 +1,4 @@
+"timepoint","time_days","KM_survival","KM_event_probability","events_observed_by_time","observed_beyond_time","censored_by_time","total"
+"1 year",365,0.880824956636939,0.119175043363061,53,374,48,475
+"3 years",1095,0.616230164042688,0.383769835957312,129,117,229,475
+"5 years",1825,0.378001555429376,0.621998444570624,162,41,272,475

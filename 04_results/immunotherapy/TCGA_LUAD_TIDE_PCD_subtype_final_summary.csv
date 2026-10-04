@@ -1,0 +1,12 @@
+"metric","value"
+"n_PCD_C1",284
+"n_PCD_C2",233
+"Median_TIDE_PCD_C1",0.380502629681158
+"Median_TIDE_PCD_C2",0.576033051792132
+"TIDE_Wilcoxon_p",0.555848006825035
+"Predicted_responder_percent_PCD_C1",40.4929577464789
+"Predicted_responder_percent_PCD_C2",33.4763948497854
+"Responder_Fisher_p",0.120233912216785
+"No_benefits_percent_PCD_C1",4.57746478873239
+"No_benefits_percent_PCD_C2",14.5922746781116
+"No_benefits_Fisher_p",9.39233325627384e-05

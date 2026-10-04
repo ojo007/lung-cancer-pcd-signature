@@ -1,0 +1,19 @@
+"biological_population","match_tier","n_methods_mapped","methods","n_subtype_FDR05","n_MPCDS_FDR05"
+"B cells","strict",4,"xCell; quanTIseq; TIMER; EPIC",2,3
+"Naive B cells","strict",2,"xCell; CIBERSORT",1,0
+"Memory B cells","strict",2,"xCell; CIBERSORT",1,1
+"Plasma cells","strict",2,"xCell; CIBERSORT",2,1
+"CD4 T cells","strict",4,"xCell; quanTIseq; TIMER; EPIC",2,2
+"CD8 T cells","strict",5,"xCell; quanTIseq; TIMER; EPIC; CIBERSORT",3,0
+"Regulatory T cells","strict",3,"xCell; quanTIseq; CIBERSORT",1,2
+"Gamma-delta T cells","strict",2,"xCell; CIBERSORT",1,0
+"NK cells","strict",3,"xCell; quanTIseq; EPIC",0,0
+"Monocytes","strict",3,"xCell; quanTIseq; CIBERSORT",2,1
+"Macrophages","strict",3,"xCell; TIMER; EPIC",3,1
+"M1 macrophages","strict",3,"xCell; quanTIseq; CIBERSORT",1,1
+"M2 macrophages","strict",3,"xCell; quanTIseq; CIBERSORT",2,2
+"Dendritic cells","strict",3,"xCell; quanTIseq; TIMER",2,2
+"Neutrophils","strict",4,"xCell; quanTIseq; TIMER; CIBERSORT",2,0
+"Eosinophils","strict",2,"xCell; CIBERSORT",0,0
+"Endothelial cells","strict",2,"xCell; EPIC",1,1
+"Fibroblast/CAF axis","approximate",2,"xCell; EPIC",2,1

@@ -1,0 +1,2 @@
+"n_LUAD_external_cohorts","total_OS_samples","total_events","cohorts_HR_above_1","cohorts_continuous_p_below_0_05","median_C_index","min_C_index","max_C_index"
+4,1194,436,4,3,0.595475856716062,0.579023450048185,0.70157258731998

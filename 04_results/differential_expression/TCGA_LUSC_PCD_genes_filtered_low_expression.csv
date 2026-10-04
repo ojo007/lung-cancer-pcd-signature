@@ -1,0 +1,3 @@
+"gene_symbol","n_PCD_types","PCD_types","source_gene_sets","source_collections","cuproptosis_role","gene_id","gene_type","ensembl_id"
+"FTMT",1,"Ferroptosis","WP_FERROPTOSIS","C2",NA,"ENSG00000181867.3","protein_coding","ENSG00000181867"
+"LGALS13",1,"Ferroptosis","GOBP_FERROPTOSIS","C5",NA,"ENSG00000105198.11","protein_coding","ENSG00000105198"

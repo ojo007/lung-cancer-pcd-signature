@@ -1,0 +1,4 @@
+"indicator","n","method","rho","p_value"
+"CD274_log2TPM",504,"Spearman correlation",0.128119542996617,0.00396394758832611
+"Nonsynonymous_mutation_burden",492,"Spearman correlation",0.267666861959941,1.61488794512805e-09
+"MANTIS_score",501,"Spearman correlation",-0.0357927958031786,0.424054921900532

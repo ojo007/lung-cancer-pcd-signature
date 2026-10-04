@@ -1,0 +1,3 @@
+"framework","status","interpretation"
+"TIDE","Completed","Expression-based in silico immunotherapy surrogate completed for TCGA-LUAD."
+"IPS","No local candidate data found","No existing IPS dataset detected in the project; external Cancer Immunome Atlas access would be required for direct IPS analysis."

@@ -1,0 +1,9 @@
+"metric","value"
+"Patients",517
+"Predicted responders",193
+"Predicted nonresponders",324
+"Predicted responder percentage",37.330754352031
+"Median TIDE",0.485236591092633
+"Mean TIDE",0.513635866220458
+"Minimum TIDE",-5.15117100634089
+"Maximum TIDE",5.24108609340381

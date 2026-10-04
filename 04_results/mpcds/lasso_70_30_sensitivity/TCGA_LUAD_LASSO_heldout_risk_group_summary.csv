@@ -1,0 +1,3 @@
+"risk_group","n","events","censored","median_LP"
+"Low LASSO",77,25,52,-0.194944013636318
+"High LASSO",75,30,45,0.130181343265377

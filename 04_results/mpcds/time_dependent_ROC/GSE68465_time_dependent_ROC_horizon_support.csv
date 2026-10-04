@@ -1,0 +1,4 @@
+"cohort","timepoint","horizon","time_unit","events_by_time","known_survivors_beyond_time","censored_before_or_at_time","total"
+"GSE68465","1 year",12,"months",49,391,2,442
+"GSE68465","3 years",36,"months",141,272,29,442
+"GSE68465","5 years",60,"months",187,169,86,442

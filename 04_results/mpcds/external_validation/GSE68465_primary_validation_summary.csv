@@ -1,0 +1,2 @@
+"cohort","histology","n","events","genes_available","genes_original","missing_gene","gene_coverage_percent","coefficient_weight_coverage_percent","C_index","C_index_SE","C_index_CI_lower","C_index_CI_upper","HR_per_SD","HR_CI_lower","HR_CI_upper","p_value","PH_p_value"
+"GSE68465","LUAD",442,236,46,47,"UACA",97.8723404255319,97.0133728036882,0.597272768457136,0.0200032612432476,0.558066376420371,0.636479160493901,1.22894644934001,1.07672075287474,1.40269366157663,0.0022462831932974,6.81367307099026e-07

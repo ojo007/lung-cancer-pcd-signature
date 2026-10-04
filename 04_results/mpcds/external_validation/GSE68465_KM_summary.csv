@@ -1,0 +1,3 @@
+"risk_group","n","events","median_OS_months","median_CI_lower","median_CI_upper","logrank_p"
+"Low MPCDS",221,104,75.73,68.6,85.65,0.00724250165066198
+"High MPCDS",221,132,47,40,72.64,0.00724250165066198

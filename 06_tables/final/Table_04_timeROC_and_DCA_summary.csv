@@ -1,0 +1,7 @@
+"analysis","result","caution"
+"TCGA-LUAD timeROC","AUC 1y=0.7054; 3y=0.7092; 5y=0.6493","Development cohort"
+"GSE68465 timeROC","AUC 1y=0.6454; 3y=0.6375; 5y=0.5856","External validation"
+"GSE72094 timeROC","AUC 1y=0.7314; 3y=0.7322; 5y=0.7207","5-year estimate unstable because of sparse support"
+"GSE31210 timeROC","AUC 1y=0.7252; 3y=0.5507; 5y=0.5889","1-year estimate based on few deaths"
+"GSE50081 timeROC","AUC 1y=0.5785; 3y=0.5747; 5y=0.6190","External validation"
+"TCGA-LUAD DCA / clinical model comparison","Complete-case n=475; clinical C=0.6741; clinical+MPCDS C=0.7243; LRT p=2.94e-09","Exploratory apparent decision-curve analysis; no external DCA"

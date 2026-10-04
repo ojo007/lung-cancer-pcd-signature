@@ -1,0 +1,22 @@
+"metric","value"
+"DepMap LUAD models in metadata",91
+"LUAD with default expression",80
+"LUAD with PRISM",51
+"Complete LUAD expression plus PRISM",50
+"MPCDS genes available",47
+"Total PRISM compounds",1482
+"Compounds with n >= 30",1442
+"Eligible constant-AUC compounds",2
+"Spearman-tested compounds",1440
+"Spearman nominal p < 0.05",121
+"Spearman nominal p < 0.01",29
+"Spearman nominal p < 0.001",5
+"Spearman FDR < 0.05",0
+"Spearman FDR < 0.10",0
+"Minimum Spearman FDR",0.189316524898786
+"Linear-tested compounds",1440
+"Linear FDR < 0.05",0
+"Linear FDR < 0.10",0
+"Minimum linear FDR",0.301541067238596
+"Spearman-linear direction agreement",0.861111111111111
+"Spearman-linear effect concordance",0.855261884034748

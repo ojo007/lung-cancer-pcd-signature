@@ -1,0 +1,3 @@
+"records","n.max","n.start","events","rmean","se(rmean)","median","0.95LCL","0.95UCL","risk_group"
+64,64,64,19,91.6992658832342,7.14724749653989,NA,69.48,NA,"Low MPCDS"
+64,64,64,33,65.1167168622107,8.09875075952363,52.44,41.76,NA,"High MPCDS"

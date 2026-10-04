@@ -1,0 +1,17 @@
+"metric","value"
+"GDSC2 drugs tested",198
+"MPCDS FDR-significant",110
+"MPCDS FDR: higher MPCDS -> predicted sensitivity",59
+"MPCDS FDR: higher MPCDS -> predicted resistance",51
+"Subtype FDR-significant",104
+"Subtype FDR: PCD_C2 more sensitive",38
+"Subtype FDR: PCD_C2 more resistant",66
+"Cross-platform testable matched drugs",72
+"Cross-platform directionally concordant",37
+"Cross-platform directionally discordant",35
+"Cross-platform concordance proportion",0.513888888888889
+"Cross-platform concordance binomial p",0.453147162351543
+"Cross-platform Spearman rho",-0.0898128497009454
+"Cross-platform Spearman p",0.453093437570702
+"GDSC2-FDR matched drugs",39
+"GDSC2-FDR + PRISM nominal drugs",0
