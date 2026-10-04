@@ -6,8 +6,6 @@
 .Ruserdata
 
 # Data and generated outputs
-01_raw_data/
-02_processed_data/
 
 # Local credentials
 .env
