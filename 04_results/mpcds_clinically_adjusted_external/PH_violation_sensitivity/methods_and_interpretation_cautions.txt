@@ -1,0 +1,8 @@
+Time cutoffs were specified as 12 and 36 months, not outcome-optimised.
+GSE68465: interval-specific hazard ratios are descriptive and should NOT
+be substituted for the common-HR estimates in Script 42 meta-analysis.
+GSE31210: 35 events; stage/sex-stratified sensitivity can be imprecise.
+The global PH test for GSE31210 implicated both sex and stage, not MPCDS.
+No new treatment-effect, model-superiority or causal claims are warranted.
+Patient overlap across GEO studies is still not ruled out.
+This script leaves Scripts 21, 41, 42 and 43 outputs unchanged.

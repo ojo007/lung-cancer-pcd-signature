@@ -1,0 +1,13 @@
+Script 45 — Institutional-provenance exclusion sensitivity (GSE68465 / GSE72094).
+HLM denotes the H. Lee Moffitt institution subset in GSE68465. GSE72094 is Moffitt-derived.
+Distinct GEO accessions and distinct-looking sample labels do not establish distinct patients.
+Remove all HLM samples from GSE68465, regardless of suspected identity; no duplicates are asserted.
+Cox baseline covariates and model specifications reproduce Script 41 (Efron ties).
+MPCDS_z is kept at its original full-cohort scale; no re-standardisation after filtering.
+Rerun only GSE68465 Cox models on non-HLM subjects; other 3 cohorts unchanged.
+Meta-analysis uses Script 42 REML and conservative ad hoc Hartung-Knapp estimator.
+PH is re-tested via cox.zph for full and non-HLM GSE68465 samples.
+Only exploratory sensitivity. Institutional exclusion may remove genuine independent patients.
+Site exclusion does not prove no overlap; direct patient-level identity cannot be verified.
+Any Cox PH violations, different stage encodings and n=4 meta cohorts remain limitations.
+Existing Script 41/42 results are not overwritten.

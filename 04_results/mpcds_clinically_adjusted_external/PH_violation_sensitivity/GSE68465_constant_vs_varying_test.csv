@@ -1,0 +1,2 @@
+"cohort","n","events","original_stage_adjusted_HR","constant_effect_split_HR","likelihood_ratio_chisquare","additional_df","p_for_MPCDS_effect_varying_by_period","period_cut_months"
+"GSE68465",439,235,1.16752788477086,1.16752788477086,16.1604088325653,2,0.000309607740086243,"12; 36"

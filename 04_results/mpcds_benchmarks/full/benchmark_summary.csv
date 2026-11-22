@@ -1,0 +1,2 @@
+"mode","patients","events","pcd_genes","background_genes","random_signatures","paired_repeats","first_repeat_pcd_ridge_C","first_repeat_meanZ_C","repeated_mean_pcd_ridge_C","repeated_mean_meanZ_C","mean_paired_delta_C","random_mean_C","random_max_C","random_empirical_exceedance_p"
+"full",504,182,47,14647,100,20,0.6179862730107,0.574977209319783,0.611831188702287,0.572502576673166,0.0393286120291216,0.610145028223732,0.65820839561935,0.366336633663366

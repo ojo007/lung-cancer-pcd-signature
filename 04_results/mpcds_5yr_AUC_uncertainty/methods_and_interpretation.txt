@@ -1,0 +1,13 @@
+SCRIPT 48 — Fixed-MPCDS external GEO cumulative/dynamic AUC sensitivity
+Source: original Script 21 patient-level score files and Script 22 timeROC summary.
+3/5-year AUCs reproduce original Script 22 (marginal-censoring IPCW, cumulative/dynamic ROC).
+Each of the four cohorts: 500 individual patient bootstrap resamples with replacement, fixed scores.
+Percentile intervals use finite bootstrap AUCs when at least 90% of resamples are valid.
+No model retraining, gene reselection, recalibration, or recalculation of cohort-wide z-score is performed.
+Bootstrap intervals are conditional on fixed scores and the observed cohort's follow-up/censoring patterns.
+GSE72094 has only FIVE observed survivors beyond 60 months: regardless of
+the calculated interval, its 5-year AUC must be described as unstable / poorly supported.
+The <10-survivor flag is a descriptive caution, not a statistically validated cutoff.
+The bootstrap excludes invalid replicates and reports their frequency; do not impute missing AUCs.
+These analyses do not demonstrate clinical utility or independent external prospective deployment.
+Existing Script 21 and 22 outputs remain unchanged.

@@ -1,0 +1,9 @@
+SCRIPT 46: MPCDS incremental C-index patient-bootstrap sensitivity
+Exact reproduction required: 20 repeated five-fold nested CV with inner ridge tuning; same Script 18 seeds and predictors.
+Target statistic: arithmetic average of the 100 outer-fold paired C-index differences, identical to Script 18.
+A patient is resampled once per bootstrap iteration; their multiplicity is reused across ALL CV repeats.
+Within each fold, concordance is evaluated with patient case weights on OUT-OF-FOLD predictions.
+Bootstrap interval: percentile interval conditional on observed dataset, CV model fits, gene set and fold allocation.
+This is NOT a fully model-refitted bootstrap interval, does not reflect signature discovery or refitting uncertainty, and is not external validation.
+CV repeat 2.5th/97.5th percentiles describe fold-partition variability and are not patient-sampling CIs.
+No previous Script 18 outputs were altered.

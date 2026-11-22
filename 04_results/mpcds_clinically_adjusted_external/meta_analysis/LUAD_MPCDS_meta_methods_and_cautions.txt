@@ -1,0 +1,20 @@
+Kankarofi et al. — External LUAD MPCDS meta-analysis, Script 42
+Cohorts: GSE68465, GSE72094, GSE31210, GSE50081.
+Input: validated per-cohort Cox log-HR and model-based SE (Script 41).
+Each effect represents the HR per one within-cohort SD of MPCDS.
+Estimand: cross-cohort mean of study-specific associations; not a causal effect.
+Primary model specification: stage_adjusted, with cohort-specific clinical staging.
+GSE68465 adjusts for age, sex, pT2+ and pN1+; other cohorts adjust for
+age, sex and stage I versus II-IV. Stage covariates are not fully harmonised.
+Unadjusted and age-sex adjusted models are supporting sensitivity summaries.
+Normal-normal random-effects inverse-variance meta-analysis, tau2 via REML.
+Cochran Q and I2 use within-study SE only (conventional Q-based I2).
+Both conventional REML z CIs and conservative ad hoc Hartung-Knapp
+t CIs with k-1 degrees of freedom are included; prefer HK for reporting.
+At k=4, tau2 and I2 are imprecise and power for heterogeneity tests is low.
+Cohort non-independence/duplicate patients has NOT been ruled out yet.
+GSE68465 shows evidence of non-proportional hazards in Script 21.
+Results should be described as average prognostic associations with
+potential time-variation and clinical adjustment limitations.
+Do not interpret combined sample sizes as fully independent without overlap audit.
+No C-indices, subgroup associations, or individual participant data are pooled.

@@ -1,0 +1,5 @@
+"cohort","n_score_patients","n_events","age_valid","sex_valid","stage_valid","smoking_valid","stage_strategy"
+"GSE68465",442,236,442,442,439,349,"pT2plus_and_pN1plus"
+"GSE72094",398,113,398,398,393,331,"stage_I_vs_II_to_IV"
+"GSE31210",226,35,226,226,226,226,"stage_I_vs_II_to_IV"
+"GSE50081",128,52,128,128,128,115,"stage_I_vs_II_to_IV"

@@ -1,0 +1,7 @@
+"cohort_a","cohort_b","same_GEO_accession_count","repeated_GEO_accessions","interpretation"
+"GSE68465","GSE72094",0,"","Accession screen only; patient overlap remains unverified"
+"GSE68465","GSE31210",0,"","Accession screen only; patient overlap remains unverified"
+"GSE68465","GSE50081",0,"","Accession screen only; patient overlap remains unverified"
+"GSE72094","GSE31210",0,"","Accession screen only; patient overlap remains unverified"
+"GSE72094","GSE50081",0,"","Accession screen only; patient overlap remains unverified"
+"GSE31210","GSE50081",0,"","Accession screen only; patient overlap remains unverified"

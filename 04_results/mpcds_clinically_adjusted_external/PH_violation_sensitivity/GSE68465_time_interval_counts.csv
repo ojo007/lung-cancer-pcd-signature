@@ -1,0 +1,4 @@
+"cohort","period","patients_at_risk_during_interval","events"
+"GSE68465","0-12 months",439,49
+"GSE68465","12-36 months",388,91
+"GSE68465",">36 months",270,95

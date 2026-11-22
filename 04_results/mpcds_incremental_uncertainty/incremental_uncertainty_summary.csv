@@ -1,0 +1,2 @@
+"n_patients","events","repeats","outer_folds","original_clinical_C","original_combined_C","original_delta_C","repeated_CV_split_Q025","repeated_CV_split_Q975","bootstrap_resamples","patient_bootstrap_conditional_CI_lower","patient_bootstrap_conditional_CI_upper","bootstrap_fraction_positive"
+475,171,20,5,0.664287669831567,0.675138960096464,0.0108512902648965,-0.000788629518865591,0.0217039288114441,500,-0.0213773084077515,0.0430719166920546,0.73

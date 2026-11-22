@@ -1,0 +1,6 @@
+Schoenfeld PH tests are diagnostics, not proof of constant hazards.
+Primary model: stage_adjusted; include MPCDS-specific and global tests.
+PH violations can make a single Cox hazard ratio an average over follow-up.
+Accession-only screen does NOT establish absence of patient overlap.
+Cross-cohort identity requires provenance assessment and, when available, shared clinical/sample identifiers.
+No prior Script 21, 41 or 42 results were modified.

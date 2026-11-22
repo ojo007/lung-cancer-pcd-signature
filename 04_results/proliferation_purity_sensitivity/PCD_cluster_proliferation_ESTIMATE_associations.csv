@@ -1,0 +1,9 @@
+"histology","outcome","adjustment","contrast","estimate","standard_error","p_value","sample_size"
+"LUAD","proliferation_z","unadjusted","PCD_C2 vs PCD_C1",0.492090891842109,0.0857784483908375,1.64768055325485e-08,517
+"LUAD","proliferation_z","adjusted for relative purity proxy","PCD_C2 vs PCD_C1",0.40036156348624,0.0975018425488229,4.67854379505964e-05,517
+"LUAD","relative_purity_proxy_z","unadjusted","PCD_C2 vs PCD_C1",0.963496943924457,0.0776245297304778,3.9290771992695e-31,517
+"LUAD","relative_purity_proxy_z","adjusted for proliferation","PCD_C2 vs PCD_C1",0.925131096911973,0.0798462298718142,9.67335293749457e-28,517
+"LUSC","proliferation_z","unadjusted","PCD_C2 vs PCD_C1",0.377198728010617,0.0887629779744536,2.55719916446264e-05,501
+"LUSC","proliferation_z","adjusted for relative purity proxy","PCD_C2 vs PCD_C1",0.103231399850517,0.0854256752371449,0.227453366994792,501
+"LUSC","relative_purity_proxy_z","unadjusted","PCD_C2 vs PCD_C1",0.642508933411621,0.085654563431536,2.9187736251294e-13,501
+"LUSC","relative_purity_proxy_z","adjusted for proliferation","PCD_C2 vs PCD_C1",0.492738148210758,0.0795473476559336,1.22706802933689e-09,501

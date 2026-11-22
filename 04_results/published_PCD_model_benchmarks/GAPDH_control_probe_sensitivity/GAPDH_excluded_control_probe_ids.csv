@@ -1,0 +1,4 @@
+"cohort","gene","probe_id","original_symbol","exclusion_reason"
+"GSE68465","GAPDH","AFFX-HUMGAPDH/M33197_3_at","GAPDH","AFFX-prefixed GAPDH QC probe"
+"GSE68465","GAPDH","AFFX-HUMGAPDH/M33197_5_at","GAPDH","AFFX-prefixed GAPDH QC probe"
+"GSE68465","GAPDH","AFFX-HUMGAPDH/M33197_M_at","GAPDH","AFFX-prefixed GAPDH QC probe"

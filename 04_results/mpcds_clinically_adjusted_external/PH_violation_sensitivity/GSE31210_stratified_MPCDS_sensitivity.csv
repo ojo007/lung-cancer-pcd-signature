@@ -1,0 +1,2 @@
+"cohort","n","events","original_stage_adjusted_HR","stratified_HR","CI95_lower","CI95_upper","p_value","MPCDS_PH_p","status"
+"GSE31210",226,35,1.07903922064033,1.08531822996958,0.763087926691491,1.54361721513715,0.648710187550339,0.160420680601577,"OK"

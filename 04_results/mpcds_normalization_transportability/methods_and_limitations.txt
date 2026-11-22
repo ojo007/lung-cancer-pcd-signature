@@ -1,0 +1,10 @@
+Script 47: cohort-wise normalization/reference-panel sensitivity
+Script 19/21 original gene-wise z-scores and fixed TCGA standardized weights are reproduced before sensitivity testing.
+Unsupervised expression-only reference panel, without using survival outcomes to select reference samples.
+All comparisons of C-index use IDENTICAL held-out eligible survival cases for original vs reference-panel scaling.
+Genes/coefficients are never refitted. Reference fractions 20%, 40%, 60%, each assessed over 50 random splits.
+Reference samples and evaluation samples are disjoint; reference panels can contain samples without survival information.
+The ranges across 50 repeats describe reference-panel and test-composition variability, not bootstrap patient confidence intervals.
+This DOES NOT validate transfer across RNA-seq vs microarray or establish calibration for individual-patient clinical deployment.
+Original complete-cohort normalization is transductive: gene means/SDs use all expression samples, including evaluated cases.
+No original Script 19/21 results are changed.
